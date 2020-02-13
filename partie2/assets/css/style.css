@@ -1,0 +1,38 @@
+.blackBody{
+    background-color: black;
+}
+.lightBody{
+    background-color: F8F8F8;
+}
+.greyBody{
+    background-color: #E1E1E1;
+}
+.seal{
+    width: 100%;
+}
+.jwLogo{
+    width: 100%;
+    
+}
+.wall{
+    padding : 0%;
+}
+
+.wall:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    z-index:1000;
+}
+
+footer{
+    width: 100%;
+    color:white;
+    background-color: black;
+    padding-bottom: 2%;
+}
+.footerRow{
+    margin: 0px;
+}
+.redirection{
+    color: white;
+}

@@ -3,8 +3,8 @@ class Database {
 
     private $serverName = 'localhost';
     private $bddName = 'hospitalE2N';
-    private $userName = 'ldcmorin';
-    private $password = 'Lunettes78';
+    private $userName = ;
+    private $password = ;
     
     protected $db;
 
